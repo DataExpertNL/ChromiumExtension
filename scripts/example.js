@@ -1,2 +1,2 @@
-// Opens https://google.com when script is executed.
-window.open('https://google.com', "_self");
+// Opens https://dataexpert.nl when script is executed.
+window.open('https://dataexpert.nl', "_self");
