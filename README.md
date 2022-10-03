@@ -1,4 +1,4 @@
-# :gift: Basic ChromiumExtension
+# :gift: Basic Chromium Extension
 A basic Chromium based extension in which you can 'launch' bookmarklets, favorite websites and more by clicking a button.
 
 # :computer: The extension was tested on:
