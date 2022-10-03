@@ -1,0 +1,32 @@
+{
+  "name": "Basic Chrome Extension",
+  "description": "This is an example of a Basic Chrome Extension. Brought to you by DataExpert, The Netherlands. (And Google ofcourse).",
+  "version": "1.0",
+  "author": "K2SOsint, VanDenWoody",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "scripts/popup.js"
+      ],
+      "persistent": false,
+      "run_at": "document_idle"
+    }
+  ]
+}
