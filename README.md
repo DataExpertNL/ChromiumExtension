@@ -1,5 +1,5 @@
 # :gift: Basic Chromium Extension
-A basic Chromium based extension in which you can 'launch' bookmarklets, favorite websites and more by clicking a button.
+A basic Chromium based extension in which you can 'launch' bookmarklets, favorite websites and more by clicking a button. Based on the developers guides from Google on how to build extensions, this helps users with a framework on which they can expand on.
 
 # :computer: The extension was tested on:
 <p float="left">
