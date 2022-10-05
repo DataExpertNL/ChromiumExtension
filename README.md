@@ -14,7 +14,9 @@ In your favorite ***Chromium*** browser, open the Extensions menu and ***turn on
 Next, choose ***'Load Unpacked'*** and select the unpacked folder. Don't forget to ***pin*** the Extension at the top of your browser.
 
 :bangbang:Please note that if you want to incorporate :bookmark:bookmarklets in your extensions, make sure to allow ***pop-ups*** in the browser. 
-Also, do not execute a bookmarklet from the blank or starting page of a browser, but visit an online website first. If you want a bookmarklet to work in f.e. Chrome, you can go to chrome://flags/#extensions-on-chrome-urls and set this to ‘Enabled’. :bangbang:Please note that this ***can*** provide ***risks*** to stability and security in the browser. 
+Also, do not execute a bookmarklet from the blank or starting page of a browser, but visit an online website first. 
+
+If you want a bookmarklet to work in from a blank page, you can go to chrome://flags/#extensions-on-chrome-urls and set this to ‘Enabled’. :bangbang:Please note that this ***can*** provide ***risks*** to stability and security in the browser. 
 
 Please use this extension in a professional manner and we appreciate a shout out if you have used this repo! :sunglasses: 
 
